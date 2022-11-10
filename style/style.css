@@ -1,0 +1,10 @@
+.title {
+  color: red;
+  font-size: 50px;
+  border: black solid 5px;
+}
+
+.list {
+  font-size: 25px;
+  border: black solid 5px;
+}
