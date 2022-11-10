@@ -4,7 +4,8 @@
   border: black solid 5px;
 }
 
-.list {
+.list,
+.text {
   font-size: 25px;
   border: black solid 5px;
 }
