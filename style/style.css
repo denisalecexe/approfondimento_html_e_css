@@ -1,3 +1,7 @@
+body {
+  background-color: violet;
+}
+
 .title {
   color: red;
   font-size: 50px;
